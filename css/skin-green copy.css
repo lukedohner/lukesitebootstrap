@@ -1,0 +1,48 @@
+.colortext {	color:#afe630;}
+.colorbg {background:#afe630;}
+a {	color:#afe630;}
+::selection{background:#afe630;}
+.navbar-nav>li.active>a,.navbar-nav>li.active>a:hover,.navbar-nav>li.active>a:focus {background-color:#afe630;}
+.navbar-nav>li.active>a:before,.navbar-nav>li>a:hover:before,.navbar-nav>li>a:focus:before,.extra-nav-class a.dropdown-toggle:before {border-bottom:6px solid #afe630;}
+.navbar-nav>li>a:hover,.navbar-nav>li>a:focus {	background-color:#afe630;}
+.dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus {background-color:#afe630 !Important;}
+.extra-nav-class a.dropdown-toggle {	background-color:#afe630 !Important;}
+.car-highlight1 {background-color:#afe630;}
+.car-smallcircle {background:#afe630;}
+.carouselText2 {	background:#afe630;}
+.carouselRoll2 {	background:#afe630;}
+.icon-box-top i:hover {background-color:#afe630;}
+.fontawesome-icon.circle-white {	color:#afe630;}
+.grey-box-icon:hover .fontawesome-icon.circle-white,.grey-box-icon.active .fontawesome-icon.circle-white,.active i.fontawesome-icon {background-color:#afe630;}
+.home-features .icon {background:#afe630;}
+.copyright {	background-color:#afe630;}
+.panel1 {border-left:6px solid #afe630;}
+.buttoncolor {background:#afe630;}
+.panel,.panel2 {	border-left:8px solid #afe630;}
+.btn-default {background-color:#afe630;}
+.btn-minimal:hover {	color: #afe630;}
+#accordion div h4:before {	background:#afe630 url('../img/plus.png') center center no-repeat;}
+#accordion div.active h4:before {background:#afe630 url('../img/minus.png') center center no-repeat;}
+.sidebar h4 {color:#afe630;}
+.nav-tabs>.active>a,.nav-tabs>.active>a:hover {color: #afe630 !important;}
+blockquote {border-left:5px solid #afe630;}
+#skill i {background:#afe630;}
+.service-fancybox:hover i {color:#afe630;}
+.service-fancybox:hover {background:#afe630;}
+.service-fancybox.featured {	background:#afe630;}
+.service-fancybox.featured .circleicon i {color:#afe630;}
+.service-fancybox.black .circleicon i {color:#afe630;}
+.cbp_tmtimeline>li .cbp_tmicon {background:#afe630;}
+.services i {	color:#afe630;}
+.pagination>.active>a,.pagination>.active>span,.pagination>.active>a:hover,.pagination>.active>span:hover,.pagination>.active>a:focus,.pagination>.active>span:focus {background-color:#afe630;	border-color:#afe630;}
+.landingpage-button {color:#afe630;}
+.landingpage-button {color:#afe630;}
+.landingpage-button span {color:#afe630;}
+.landingpage-button strong {color:#afe630;}
+.landingpage-button i {color:#afe630;}
+.active-header {	background:#afe630;}
+.active-header:hover {background:#afe630;}
+#filter ul li .selected {background: #afe630 !Important;}
+.drop-capdouble, .drop-cap, .captionicons {background:#afe630;}
+.pageheader-default .semitransparentbg {background: rgba(175, 230, 48,0.70) !important;}
+.bgarea-semitransparent {background: rgba(145, 145, 145, 1) !important;
